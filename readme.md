@@ -1,6 +1,20 @@
-# Cropify 🖼️
 
-A powerful and feature-rich image cropping and manipulation library for Node.js, built with TypeScript and powered by `@napi-rs/canvas`.
+
+<div align="center">
+<h1>🖼️ Cropify</h1>
+<p>A powerful and feature-rich image cropping and manipulation library for Node.js, built with TypeScript and powered by `@napi-rs/canvas`.</p>
+
+<p>
+    <a href="https://github.com/kunalkandepatil/cropify"><b>Github</b></a> •
+    <a href="https://discord.gg/5EZW4tc6AH"><b>Support</b></a>
+</p>
+
+[![NPM Version](https://img.shields.io/npm/v/cropify?style=flat-square&color=%2300ADD3)](https://www.npmjs.com/package/cropify)
+[![NPM Downloads](https://img.shields.io/npm/dw/cropify?style=flat-square&color=%2300ADD3)](https://www.npmjs.com/package/cropify)
+[![NPM License](https://img.shields.io/npm/l/cropify?style=flat-square&color=%2300ADD3)](https://github.com/unburn/cropify/blob/main/LICENCE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/unburn/cropify?style=flat-square&color=%2300ADD3)](https://github.com/unburn/cropify)
+
+</div>
 
 ## Features
 
