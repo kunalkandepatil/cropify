@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1>🖼️ Cropify</h1>
-<p>A powerful and feature-rich image cropping and manipulation library for Node.js, built with TypeScript and powered by `@napi-rs/canvas`.</p>
+<p>A powerful and feature-rich image cropping and manipulation library for Node.js, built with TypeScript and powered by <b>@napi-rs/canvas.</b></p>
 
 <p>
     <a href="https://github.com/kunalkandepatil/cropify"><b>Github</b></a> •
