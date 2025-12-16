@@ -1,4 +1,4 @@
-const { cropImage } = require("../../dist/index");
+const { cropImage } = require("../dist/index");
 const fs = require("fs");
 
 const imageUrl = 'https://cdn.pixabay.com/photo/2023/03/22/07/52/lizard-7868932_960_720.jpg';

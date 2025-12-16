@@ -1,4 +1,4 @@
-const { cropImage } = require("../../dist/index");
+const { cropImage } = require("../dist/index");
 const fs = require("fs");
 
 const imageUrl = 'https://cdn.pixabay.com/photo/2022/09/16/23/09/mountains-7459822_960_720.jpg';

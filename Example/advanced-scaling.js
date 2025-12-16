@@ -1,4 +1,4 @@
-const { cropImage } = require("../../dist/index");
+const { cropImage } = require("../dist/index");
 const fs = require("fs");
 
 const imageUrl = 'https://cdn.pixabay.com/photo/2023/03/21/20/01/otter-7868090_960_720.jpg';

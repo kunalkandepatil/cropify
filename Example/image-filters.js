@@ -1,4 +1,4 @@
-const { cropImage } = require("../../dist/index");
+const { cropImage } = require("../dist/index");
 const fs = require("fs");
 
 const imageUrl = 'https://cdn.pixabay.com/photo/2025/07/10/01/55/gerbera-9705677_960_720.png';

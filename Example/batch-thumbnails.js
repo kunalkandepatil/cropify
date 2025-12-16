@@ -1,4 +1,4 @@
-const { cropImages, generateThumbnails } = require("../../dist/index");
+const { cropImages, generateThumbnails } = require("../dist/index");
 const fs = require("fs");
 
 const imageUrl = 'https://cdn.pixabay.com/photo/2022/09/04/10/25/owl-7431340_960_720.jpg';

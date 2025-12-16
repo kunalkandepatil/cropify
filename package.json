@@ -1,14 +1,13 @@
 {
   "name": "cropify",
-  "version": "2.0.0",
-  "description": "Advanced image cropping and manipulation library with powerful features",
+  "version": "2.0.2",
+  "description": "A fast, powerful image cropping & manipulation library for Node.js",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsup",
-    "dev": "tsup --watch",
-    "test": "node example/advanced-examples.js"
+    "dev": "tsup --watch"
   },
   "keywords": [
     "image",
